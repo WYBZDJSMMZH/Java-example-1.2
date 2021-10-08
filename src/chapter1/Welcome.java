@@ -1,4 +1,4 @@
-package welcome;
+package chapter1;
 
 public class Welcome {
 
